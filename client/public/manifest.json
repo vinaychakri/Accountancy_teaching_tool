@@ -1,0 +1,8 @@
+{
+  "short_name": "Accout",
+  "name": "A teaching tool for accountancy and accountancy data",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
